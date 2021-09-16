@@ -1,9 +1,9 @@
 # Assignment_seoultech_21_2_OSS
 
-**introduction myself**
-my name is yonguk kim.  
-I changed my major msd to computer engineering.  
-So this semester is first in my developer's life,
+**introduction myself**  
+  my name is yonguk kim.  
+I changed my major msd to computer engineering.   
+So this semester is first in my developer's life,  
 i scheduled some goals  in this year.  
 
 - Goal
