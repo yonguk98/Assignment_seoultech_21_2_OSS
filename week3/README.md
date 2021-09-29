@@ -1,7 +1,7 @@
 ### Korean Population by Region
   * Total population: 51669716
-  | Region | Population | Ratio (%) |  
-  | ------ | ---------- | --------- |  
+  | Region | Population | Ratio (%) |
+  | ------ | ---------- | --------- |
   | Seoul | 9550227 | 18.5 |  
   | Gyeongi | 13530519 | 26.2 |  
   | Busan | 3359527 | 6.5 |  
@@ -22,8 +22,8 @@
 
 ### Korean COVID-19 New Cases by Region
   * Total New Cases:   1714
-  | Region | New Cases | Ratio (%) | New Cases/ 1M |  
-  | ------ | ---------- | --------- | --------- |  
+  | Region | New Cases | Ratio (%) | New Cases/ 1M |
+  | ------ | ---------- | --------- | --------- |
   | Seoul | 644 | 37.6 | 67.4 |  
   | Gyeongi | 529 | 30.9 | 39.1 |  
   | Busan | 38 | 2.2 | 11.3 |  
